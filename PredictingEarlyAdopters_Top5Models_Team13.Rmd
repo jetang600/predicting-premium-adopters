@@ -1,6 +1,6 @@
 ---
 title: "Final Project - Predict Early Adopters"
-author: Team 13
+author: Jerry Tang
 output: html_document
 date: "2025-05-04"
 ---
